@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/thread-local/thread-local.iml" filepath="$PROJECT_DIR$/thread-local/thread-local.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-pool/thread-pool.iml" filepath="$PROJECT_DIR$/thread-pool/thread-pool.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-pool-and-micro-service.iml" filepath="$PROJECT_DIR$/thread-pool-and-micro-service.iml" />
     </modules>
